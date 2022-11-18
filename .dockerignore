@@ -1,0 +1,15 @@
+Dockerfile
+templates/
+app_temp.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+connection_test.py
+app.standard.yaml
+LICENCSE
+runtime.txt
+app.yaml
+app.standard.yaml
+main.py
